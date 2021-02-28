@@ -27,7 +27,7 @@
 
 ###  Bio
 
--  [My Bio](./profile.html).
+-  [My Bio](./profile.md).
  
 -  [Pages]( https://qtsho.github.io/tientran.github.io/).
 
