@@ -9,9 +9,7 @@
 
 - `Autonomous Driving`
 
-- `Embedded System`
-
-- `AI`
+- `Embedded Systems`
 
 - `Reinforcement learning`
 
