@@ -5,7 +5,7 @@
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
 </p>
 
-My name is Tien Tran, currently live in Germany. Here contains the projects as well as the information about me. I am currently working on reinforcement learning for robotics navigation, I am also interested in software development and and embedded systems developement.
+My name is Tien Tran, currently live in Germany. Here contains the projects as well as the information about me. I am currently working on reinforcement learning for robotics navigation, I am also interested in software development and and embedded systems developement. :v:
   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Qtsho&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Tramac's github stats"/>
 
