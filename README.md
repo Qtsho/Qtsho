@@ -8,7 +8,7 @@
        
 </p>
 
-My name is Tien Tran, currently live in Germany. Here contains the projects as well as the information about me. I am a freshly master graduated in my middle 20s. I am currently working on reinforcement learning for robotics navigation, I am also interested in backend software development and embedded systems developement. :v:
+My name is Tien Tran, currently live in Germany. Here contains the projects as well as the information about me. I am  in my middle 20s and a freshly master graduate. I am currently working on reinforcement learning for robotics navigation, I am also interested in backend software development and embedded systems developement. :v:
   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Qtsho&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Tramac's github stats"/>
 
