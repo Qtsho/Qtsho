@@ -1,7 +1,7 @@
 ### Hello 👋 Welcome to my Github 😄
 <p> 
 
-  <a href="mailto:quangtien868@gmail.com"> <img src="https://img.shields.io/badge/Email-Gmail-blue" height="20px" alt="Email"></a>
+  <a href="mailto:quangtien868@gmail.com"> <img src="https://img.shields.io/badge/Email-Gmail-red" height="20px" alt="Email"></a>
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"></a>
   <a href=""> <img src="https://img.shields.io/badge/Use-C%2FC%2B%2B-blue" height="20px"></a>
   <a href=""> <img src="https://img.shields.io/badge/Use-Java-blue" height="20px"> </a>
