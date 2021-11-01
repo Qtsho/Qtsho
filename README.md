@@ -12,7 +12,7 @@ I am currently working on reinforcement learning for robotics, I am also interes
 For more details see [Main Home Page](https://qtsho.github.io/tientran.github.io/).
 
 
-[![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qtsho)](https://github.com/Qtsho/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Qtsho&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Tramac's github stats"/>
 
 
 
