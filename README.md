@@ -4,7 +4,7 @@ Here are the projects as well as the information about me.
 
 <p> 
 
-  <a href="mailto:quangtien868@gmail.com"> <img src="https://img.shields.io/badge/FHDO-mail--to-orange" height="20px" alt="Email">
+  <a href="mailto:quangtien868@gmail.com"> <img src="https://img.shields.io/badge/Email-Gmail-blue" height="20px" alt="Email">
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
 </p>
   
