@@ -12,7 +12,7 @@ I currently live in Germany. Here contains the projects as well as the informati
   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Qtsho&count_private=true&show_icons=true&hide_rank=true&hide_title=true" alt="Tramac's github stats"/>
 
-For more details see [Main Home Page](https://qtsho.github.io/tientran.github.io/).
+
 
 
 
