@@ -7,9 +7,6 @@
   <a href=""> <img src="https://img.shields.io/badge/Use-Java-blue" height="20px"> </a>
        
 </p>
-
-I currently live in Germany. Here contains the projects as well as the information about me. I am  in my middle 20s and a freshly master graduate. I am currently working on reinforcement learning for robotics navigation, I am also interested in backend software development and embedded systems developement. :v:
-  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Qtsho&count_private=true&show_icons=true&hide_rank=true&hide_title=true" alt="Tramac's github stats"/>
 
 
